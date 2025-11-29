@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Yiğit Durak!
 
-<!--
-**yigitdurak/yigitdurak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mathematical Engineering Student @YTU**
 
-Here are some ideas to get you started:
+I am passionate about Mathematics and Analytical Thinking. I enjoy breaking down complex problems and am currently building a strong foundation in software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+* **Languages:** C, Python
+
+### 🔭 Currently Working On
+* Learning core concepts of C Programming and Python.
+* Exploring the intersection of mathematics and algorithms.
+* Improving my problem-solving skills.
+
+### 📫 Connect with Me
+* **LinkedIn:** [Yiğit Durak](https://www.linkedin.com/in/yiğit-durak-476244333)
+* **Email:** yigitdurak06@gmail.com
